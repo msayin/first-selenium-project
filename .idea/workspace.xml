@@ -12,12 +12,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1TJuL2cjTTp96ve3GgCNSKsh2vq" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -38,8 +40,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test25">
-    <configuration name="Test18_Tabs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.example3_open_webside_and_print_source">
+    <configuration name="Test3_open_webside_and_get_screenshot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstSeleniumTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Test18_Tabs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Test3_open_webside_and_get_screenshot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test19_css.selector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test6_textfields" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstSeleniumTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Test19_css.selector.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Test6_textfields.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test9_Xpath1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test7_multi_line_textfields" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstSeleniumTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Test9_Xpath1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Test7_multi_line_textfields.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test9_Xpath2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example2_screenshot_and_print_title" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstSeleniumTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Test9_Xpath2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/example2_screenshot_and_print_title.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example3_open_webside_and_print_source" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstSeleniumTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/test25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/example3_open_webside_and_print_source.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test25" />
-        <item itemvalue="Python.Test19_css.selector" />
-        <item itemvalue="Python.Test9_Xpath2" />
-        <item itemvalue="Python.Test9_Xpath1" />
-        <item itemvalue="Python.Test18_Tabs" />
+        <item itemvalue="Python.example3_open_webside_and_print_source" />
+        <item itemvalue="Python.example2_screenshot_and_print_title" />
+        <item itemvalue="Python.Test7_multi_line_textfields" />
+        <item itemvalue="Python.Test6_textfields" />
+        <item itemvalue="Python.Test3_open_webside_and_get_screenshot" />
       </list>
     </recent_temporary>
   </component>
